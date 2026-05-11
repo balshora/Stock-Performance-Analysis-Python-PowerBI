@@ -50,11 +50,8 @@ The exported datasets were modeled and visualized in Power BI to create an inter
   * **Risk vs. Return (Scatter Plot):** Mapping ROI against Volatility to instantly classify asset behavior.
  
 <img width="1179" height="604" alt="Screenshot 2026-05-12 at 12 08 58 AM" src="https://github.com/user-attachments/assets/617c7119-3c52-4b92-b5b2-5fd819ad9bcc" />
-
 <img width="1177" height="616" alt="Screenshot 2026-05-12 at 12 09 11 AM" src="https://github.com/user-attachments/assets/1729c2c1-eba2-46f6-8c33-03fd8e03292b" />
-
 <img width="1170" height="600" alt="Screenshot 2026-05-12 at 12 09 25 AM" src="https://github.com/user-attachments/assets/6c7a6bd2-07b4-439e-8536-8217963168ce" />
-
 
 ---
 
@@ -83,3 +80,9 @@ The exported datasets were modeled and visualized in Power BI to create an inter
 
   <p><i>Click the logos to visit the official corporate websites.</i></p>
 </div>
+
+---
+
+## 📫 Contact
+Let's connect on [LinkedIn](https://www.linkedin.com/in/basim-alshora-022550b9)
+ or reach out via email at [B.alshora@gmail.com](mailto:B.alshora@gmail.com).
