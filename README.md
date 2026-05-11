@@ -49,7 +49,7 @@ The exported datasets were modeled and visualized in Power BI to create an inter
   * **Normalized Growth Race (Line Chart):** A master comparative chart showing the exact cumulative growth of both assets from a unified starting point.
   * **Risk vs. Return (Scatter Plot):** Mapping ROI against Volatility to instantly classify asset behavior.
  
-<img width="1179" height="604" alt="Screenshot 2026-05-12 at 12 08 58 AM" src="https://github.com/user-attachments/assets/617c7119-3c52-4b92-b5b2-5fd819ad9bcc" />
+<img width="1161" height="595" alt="Screenshot 2026-05-12 at 12 16 02 AM" src="https://github.com/user-attachments/assets/429aae65-6603-4ccd-84d4-912beb443a3a" />
 <img width="1177" height="616" alt="Screenshot 2026-05-12 at 12 09 11 AM" src="https://github.com/user-attachments/assets/1729c2c1-eba2-46f6-8c33-03fd8e03292b" />
 <img width="1170" height="600" alt="Screenshot 2026-05-12 at 12 09 25 AM" src="https://github.com/user-attachments/assets/6c7a6bd2-07b4-439e-8536-8217963168ce" />
 
